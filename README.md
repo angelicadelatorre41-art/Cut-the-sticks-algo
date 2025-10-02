@@ -1,1 +1,1 @@
-# Cut-the-sticks-algo
+# Cut-the-sticks-algo The function repeatedly cuts all sticks by the length of the smallest stick and removes any sticks of zero length. After each cut, it records the number of sticks remaining until none are left.
